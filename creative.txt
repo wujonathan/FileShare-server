@@ -1,0 +1,4 @@
+Jonathan Wu - 437406
+Manil Bastola - 438223
+http://ec2-52-24-193-191.us-west-2.compute.amazonaws.com/~mbastola/
+For our creative portion we implemented a create new user function
